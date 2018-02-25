@@ -1,0 +1,20 @@
+
+INSTRUCTION TO INSTALL MASM611 IN WINDOWS 10
+
+-------------------------------------------------------------------
+1. Install DOSBOX software
+2. Extract masm611.rar to C:\
+3. Open DosBox and type the following:
+
+mount c c:\masm611\bin\
+
+4. type 'pwb' and press enter
+
+
+--- ENJOY ---
+
+--------------------------------------------------------------------
+
+By https://github.com/MariaDanielRaj
+
+--------------------------------------------------------------------
