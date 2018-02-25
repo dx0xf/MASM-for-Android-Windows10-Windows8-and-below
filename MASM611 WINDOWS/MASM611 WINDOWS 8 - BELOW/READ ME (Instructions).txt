@@ -1,0 +1,34 @@
+INSTRUCTION TO INSTALL MASM611 SOFTWARE @ WINDOWS 8 OR BELOW
+-------------------------------------------------------------------
+1. Extract masm611.rar
+2. Move Extracted file to C:\
+3. Go to C:\MASM611\DISK1\
+4. Install Setup
+
+RUN MASM Environment in three ways:
+
+Way 1: Using Command Prompt
+1. Open command prompt by SHIFT+RIGHTCLICK @ C:\MASM611\BIN\ directory AND choose "Open command window here"
+2. type 'pwb' and press enter
+
+Way 2: Open Directly
+1. Go to Directory C:\MASM611\BIN\
+2. Open PWB executable file
+
+Way 3: Using DosBOX
+1. Install DOSBOX software
+2. Extract masm611.rar to C:\
+3. Open DosBox and type the following:
+
+mount c c:\masm611\bin\
+
+4. type 'pwb' and press enter
+
+
+--- ENJOY ---
+
+--------------------------------------------------------------------
+
+By https://github.com/MariaDanielRaj
+
+--------------------------------------------------------------------
